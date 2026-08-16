@@ -1,4 +1,5 @@
-# Smart City Traffic Forecasting
+# Forecasting of Smart city traffic patterns
+
 
 ## Overview
 
